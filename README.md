@@ -1,2 +1,3 @@
 # fullstack22
-ejemplo
+
+Este App, es para combatir a todos los malvados del mundo. xD
